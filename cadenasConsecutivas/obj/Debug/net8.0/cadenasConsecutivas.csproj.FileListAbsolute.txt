@@ -1,0 +1,29 @@
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.AssemblyInfoInputs.cache
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.AssemblyInfo.cs
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.sourcelink.json
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\bin\Debug\net8.0\cadenasConsecutivas.exe
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\bin\Debug\net8.0\cadenasConsecutivas.deps.json
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\bin\Debug\net8.0\cadenasConsecutivas.runtimeconfig.json
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\bin\Debug\net8.0\cadenasConsecutivas.dll
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\bin\Debug\net8.0\cadenasConsecutivas.pdb
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.dll
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\obj\Debug\net8.0\refint\cadenasConsecutivas.dll
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.pdb
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.genruntimeconfig.cache
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\cadenasConsecutivas\obj\Debug\net8.0\ref\cadenasConsecutivas.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\bin\Debug\net8.0\cadenasConsecutivas.exe
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\bin\Debug\net8.0\cadenasConsecutivas.deps.json
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\bin\Debug\net8.0\cadenasConsecutivas.runtimeconfig.json
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\bin\Debug\net8.0\cadenasConsecutivas.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\bin\Debug\net8.0\cadenasConsecutivas.pdb
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.AssemblyInfoInputs.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.AssemblyInfo.cs
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.csproj.CoreCompileInputs.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\obj\Debug\net8.0\refint\cadenasConsecutivas.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.pdb
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\obj\Debug\net8.0\cadenasConsecutivas.genruntimeconfig.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\cadenasConsecutivas\obj\Debug\net8.0\ref\cadenasConsecutivas.dll

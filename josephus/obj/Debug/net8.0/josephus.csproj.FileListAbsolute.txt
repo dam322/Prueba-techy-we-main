@@ -1,0 +1,29 @@
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\obj\Debug\net8.0\josephus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\obj\Debug\net8.0\josephus.AssemblyInfoInputs.cache
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\obj\Debug\net8.0\josephus.AssemblyInfo.cs
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\obj\Debug\net8.0\josephus.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\obj\Debug\net8.0\josephus.sourcelink.json
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\bin\Debug\net8.0\josephus.exe
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\bin\Debug\net8.0\josephus.deps.json
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\bin\Debug\net8.0\josephus.runtimeconfig.json
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\bin\Debug\net8.0\josephus.dll
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\bin\Debug\net8.0\josephus.pdb
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\obj\Debug\net8.0\josephus.dll
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\obj\Debug\net8.0\refint\josephus.dll
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\obj\Debug\net8.0\josephus.pdb
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\obj\Debug\net8.0\josephus.genruntimeconfig.cache
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\josephus\obj\Debug\net8.0\ref\josephus.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\bin\Debug\net8.0\josephus.exe
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\bin\Debug\net8.0\josephus.deps.json
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\bin\Debug\net8.0\josephus.runtimeconfig.json
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\bin\Debug\net8.0\josephus.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\bin\Debug\net8.0\josephus.pdb
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\obj\Debug\net8.0\josephus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\obj\Debug\net8.0\josephus.AssemblyInfoInputs.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\obj\Debug\net8.0\josephus.AssemblyInfo.cs
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\obj\Debug\net8.0\josephus.csproj.CoreCompileInputs.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\obj\Debug\net8.0\josephus.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\obj\Debug\net8.0\refint\josephus.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\obj\Debug\net8.0\josephus.pdb
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\obj\Debug\net8.0\josephus.genruntimeconfig.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\josephus\obj\Debug\net8.0\ref\josephus.dll

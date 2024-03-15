@@ -1,0 +1,57 @@
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\bin\Debug\net8.0\construirTriangulo.exe
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\bin\Debug\net8.0\construirTriangulo.deps.json
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\bin\Debug\net8.0\construirTriangulo.runtimeconfig.json
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\bin\Debug\net8.0\construirTriangulo.dll
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\bin\Debug\net8.0\construirTriangulo.pdb
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.AssemblyInfoInputs.cache
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.AssemblyInfo.cs
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.dll
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\refint\construirTriangulo.dll
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.pdb
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.genruntimeconfig.cache
+C:\Users\dasd-\OneDrive\Escritorio\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\ref\construirTriangulo.dll
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\bin\Debug\net8.0\construirTriangulo.exe
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\bin\Debug\net8.0\construirTriangulo.deps.json
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\bin\Debug\net8.0\construirTriangulo.runtimeconfig.json
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\bin\Debug\net8.0\construirTriangulo.dll
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\bin\Debug\net8.0\construirTriangulo.pdb
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.AssemblyInfoInputs.cache
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.AssemblyInfo.cs
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.sourcelink.json
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.dll
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\refint\construirTriangulo.dll
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.pdb
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\construirTriangulo.genruntimeconfig.cache
+C:\Users\luisa\Documents\VS Projects\Prueba-teachy-we\construirTriangulo\obj\Debug\net8.0\ref\construirTriangulo.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\bin\Debug\net8.0\construirTriangulo.exe
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\bin\Debug\net8.0\construirTriangulo.deps.json
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\bin\Debug\net8.0\construirTriangulo.runtimeconfig.json
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\bin\Debug\net8.0\construirTriangulo.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\bin\Debug\net8.0\construirTriangulo.pdb
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.AssemblyInfoInputs.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.AssemblyInfo.cs
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\obj\Debug\net8.0\refint\construirTriangulo.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.pdb
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.genruntimeconfig.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-teachy-we-main\construirTriangulo\obj\Debug\net8.0\ref\construirTriangulo.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\bin\Debug\net8.0\construirTriangulo.exe
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\bin\Debug\net8.0\construirTriangulo.deps.json
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\bin\Debug\net8.0\construirTriangulo.runtimeconfig.json
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\bin\Debug\net8.0\construirTriangulo.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\bin\Debug\net8.0\construirTriangulo.pdb
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.AssemblyInfoInputs.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.AssemblyInfo.cs
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\obj\Debug\net8.0\refint\construirTriangulo.dll
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.pdb
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\obj\Debug\net8.0\construirTriangulo.genruntimeconfig.cache
+C:\Users\dasd-\Downloads\Prueba-teachy-we-main\Prueba-techy-we-main\construirTriangulo\obj\Debug\net8.0\ref\construirTriangulo.dll
